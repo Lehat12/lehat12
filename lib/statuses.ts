@@ -16,6 +16,7 @@ const statuses:IStatuses = {
   202: { code: 202, message: 'Accepted' },
   203: { code: 203, message: 'Non-Authoritative Information' },
   204: { code: 204, message: 'No Content' },
+  205: { code: 205, message: 'Reset Content' },
   206: { code: 206, message: 'Partial Content' },
   207: { code: 207, message: 'Multi-Status' },
   300: { code: 300, message: 'Multiple Choices' },
