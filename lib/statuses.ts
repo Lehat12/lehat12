@@ -18,6 +18,7 @@ const statuses:IStatuses = {
   204: { code: 204, message: 'No Content' },
   206: { code: 206, message: 'Partial Content' },
   207: { code: 207, message: 'Multi-Status' },
+  208: { code: 208, message: 'Already Reported' },
   300: { code: 300, message: 'Multiple Choices' },
   301: { code: 301, message: 'Moved Permanently' },
   302: { code: 302, message: 'Found' },
